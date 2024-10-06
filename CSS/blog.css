@@ -1,0 +1,19 @@
+body{
+    background-color: blue;
+}
+
+
+.div-card{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	background-color: rgb(247, 229, 210, 0.2);
+
+	
+}
+.crd{
+	float: left;
+	width: 20%;
+	transition: transform 2s ; 
+	border: 4px 4px 4px 1px solid lightgray;
+}
